@@ -1,6 +1,8 @@
 # Top-10-Machine-Learning-Projects-for-2025
 Top 10 Machine learning Projects With Code, Documents And Video Tutorial
 
+![TOP Machine Learning 2025](https://github.com/user-attachments/assets/1470f506-df20-44d7-9f2d-85631cbcb933)
+
 ## Youtube link: https://youtu.be/u7OyDWHhwRM?si=gL8ZnPj8UqOdPFd0
 
 ## Top 10 Machine learning Projects
